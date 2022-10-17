@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{91E74048-CE67-4773-88BD-6D7B9D349F54}</ProjectGuid>
+    <ProjectGuid>{E5732C28-1D8F-4655-940C-DE195F9C077D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>day6dotnet</RootNamespace>
     <AssemblyName>day6dotnet</AssemblyName>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>day6dotnet.TestStructure</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bookshelf.cs" />
-    <Compile Include="book.cs" />
-    <Compile Include="produts.cs" />
+    <Compile Include="BookShelf.cs" />
+    <Compile Include="books.cs" />
     <Compile Include="items.cs" />
+    <Compile Include="products.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

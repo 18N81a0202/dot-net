@@ -1,7 +1,0 @@
-C:\Users\sriharshinig\source\repos\day6dotnet\day6dotnet\obj\Debug\day6dotnet.csprojAssemblyReference.cache
-C:\Users\sriharshinig\source\repos\day6dotnet\day6dotnet\obj\Debug\day6dotnet.csproj.CoreCompileInputs.cache
-C:\Users\sriharshinig\source\repos\day6dotnet\day6dotnet\bin\Debug\day6dotnet.exe.config
-C:\Users\sriharshinig\source\repos\day6dotnet\day6dotnet\bin\Debug\day6dotnet.exe
-C:\Users\sriharshinig\source\repos\day6dotnet\day6dotnet\bin\Debug\day6dotnet.pdb
-C:\Users\sriharshinig\source\repos\day6dotnet\day6dotnet\obj\Debug\day6dotnet.exe
-C:\Users\sriharshinig\source\repos\day6dotnet\day6dotnet\obj\Debug\day6dotnet.pdb
