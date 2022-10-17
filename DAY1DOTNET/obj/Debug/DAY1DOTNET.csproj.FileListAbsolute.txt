@@ -1,0 +1,8 @@
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\bin\Debug\DAY1DOTNET.exe.config
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\bin\Debug\DAY1DOTNET.exe
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\bin\Debug\DAY1DOTNET.pdb
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\obj\Debug\DAY1DOTNET.csproj.AssemblyReference.cache
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\obj\Debug\DAY1DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\obj\Debug\DAY1DOTNET.exe
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\obj\Debug\DAY1DOTNET.pdb
+C:\Users\sriharshinig\C#\DAY1DOTNET\DAY1DOTNET\obj\Debug\DAY1DOTNET.csprojAssemblyReference.cache

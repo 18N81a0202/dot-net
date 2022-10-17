@@ -1,0 +1,7 @@
+C:\Users\sriharshinig\source\repos\day4dotnet\day4dotnet\obj\Debug\day4dotnet.csprojAssemblyReference.cache
+C:\Users\sriharshinig\source\repos\day4dotnet\day4dotnet\obj\Debug\day4dotnet.csproj.CoreCompileInputs.cache
+C:\Users\sriharshinig\source\repos\day4dotnet\day4dotnet\bin\Debug\day4dotnet.exe.config
+C:\Users\sriharshinig\source\repos\day4dotnet\day4dotnet\bin\Debug\day4dotnet.exe
+C:\Users\sriharshinig\source\repos\day4dotnet\day4dotnet\bin\Debug\day4dotnet.pdb
+C:\Users\sriharshinig\source\repos\day4dotnet\day4dotnet\obj\Debug\day4dotnet.exe
+C:\Users\sriharshinig\source\repos\day4dotnet\day4dotnet\obj\Debug\day4dotnet.pdb
